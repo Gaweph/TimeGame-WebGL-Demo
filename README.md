@@ -5,12 +5,12 @@ WebGL Build for - Proof of Concept - TimeTravel Mechanic implemented in Unity3d
 
 This demo can be played here:
 
-https://gaweph.github.io/TimeGame-WebGL-Demo/latest/
+[latest/])https://gaweph.github.io/TimeGame-WebGL-Demo/latest/)
 
 ## If you are interested in playing some older versions:
-https://gaweph.github.io/TimeGame-WebGL-Demo/V0.02/
+[V002/](https://gaweph.github.io/TimeGame-WebGL-Demo/V0.02/)
 
-https://gaweph.github.io/TimeGame-WebGL-Demo/V0.01/
+[V001/](https://gaweph.github.io/TimeGame-WebGL-Demo/V0.01/)
 
 ### Further reading
-http://blog.randomsyntax.net/categories/Gamedev/Timegame/
+[randomsyntax blog](http://blog.randomsyntax.net/categories/Gamedev/Timegame/)
