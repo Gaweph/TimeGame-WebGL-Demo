@@ -13,4 +13,4 @@ This demo can be played here:
 [https://gaweph.github.io/TimeGame-WebGL-Demo/V0.01/](https://gaweph.github.io/TimeGame-WebGL-Demo/V0.01/)
 
 ### Further reading
-[http://blog.randomsyntax.net/categories/Gamedev/Timegame/](http://blog.randomsyntax.net/categories/Gamedev/Timegame/)
+[https://randomsyntax.net/blog/projects/Time%20Travel%20Game/](https://randomsyntax.net/blog/projects/Time%20Travel%20Game/)
